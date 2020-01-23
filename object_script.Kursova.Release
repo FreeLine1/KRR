@@ -1,0 +1,11 @@
+release/customer.o
+release/form2.o
+release/hesh.o
+release/magzine_menu.o
+release/main.o
+release/mainwindow.o
+release/mysql.o
+release/moc_customer.o
+release/moc_form2.o
+release/moc_magzine_menu.o
+release/moc_mainwindow.o
